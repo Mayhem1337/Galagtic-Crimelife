@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Crimelife": {
+      "commandName": "Executable",
+      "executablePath": "C:\\Users\\Colin\\Desktop\\Rojas Super Duper Crimelife Script ja man\\ragemp-server.exe",
+      "workingDirectory": "C:\\Users\\Colin\\Desktop\\Rojas Super Duper Crimelife Script ja man",
+      "nativeDebugging": true
+    }
+  }
+}
