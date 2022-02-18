@@ -157,7 +157,7 @@ namespace Crimelife
 
             commandList.Add(new Command((dbPlayer, args) =>
             {
-                Notification.SendGlobalNotification("Danke für " + NAPI.Pools.GetAllPlayers().Count + "Spieler <3", 8000, "purple", Notification.icon.bullhorn);
+                Notification.SendGlobalNotification("Danke für " + NAPI.Pools.GetAllPlayers().Count + " Spieler <3 ", 8000, "purple", Notification.icon.bullhorn);
             }, "danke", 99, 0));
 
             commandList.Add(new Command((dbPlayer, args) =>
