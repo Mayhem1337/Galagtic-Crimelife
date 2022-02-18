@@ -1,0 +1,11 @@
+{
+	"maxplayers" : 1024,
+	"name" : "Galagtic-Crimelife", 
+	"gamemode" : "Crimelife", 
+	"stream-distance" : 300.0,
+	"announce" : false,
+	"csharp" : "enabled",
+        "net-queue-size-multiplier": 30,
+	"api-threading-debugging": false,
+	"port": 22005
+}
